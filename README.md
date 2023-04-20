@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @federicasuriano
-- 👀 I’m a Computer Science & Engineering student at Politecnico di Milano.
+- 👀 I’m a Computer Engineering student at Politecnico di Milano.
 - 📫 You can reach me by email (federicasuriano98@gmail.com) and on LinkedIn (https://www.linkedin.com/in/federica-suriano/)
